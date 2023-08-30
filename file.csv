@@ -1,4 +1,4 @@
-,id,stationCode,stationName,location
+index,id,stationCode,stationName,location
 0,yulu.bike/8d3f8797db270e3c2f4a63aaa8b09bf63d66932b/rs.iudx.org.in/bengaluru-yulu-docking-locations/yulu-station-locations,100001,Intel,"{'type': 'Point', 'coordinates': [77.684214897, 12.929327618]}"
 1,yulu.bike/8d3f8797db270e3c2f4a63aaa8b09bf63d66932b/rs.iudx.org.in/bengaluru-yulu-docking-locations/yulu-station-locations,100003,RMZ Ecoworld-2,"{'type': 'Point', 'coordinates': [77.68684, 12.92542]}"
 2,yulu.bike/8d3f8797db270e3c2f4a63aaa8b09bf63d66932b/rs.iudx.org.in/bengaluru-yulu-docking-locations/yulu-station-locations,100004,RMZ Ecoworld-3,"{'type': 'Point', 'coordinates': [77.68505, 12.92236]}"
