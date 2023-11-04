@@ -16,11 +16,10 @@
 # 3. the truck follows a fixed path in a round robbin fashion 
 # 4. the truck completes one side fixed path trip in one time slot 
 # 5. the truck is initially empty 
-# 6. the station loads only 50% of its capacity into the truck 
-# 7. the truck unloads bikes until the the station reaches 30 bikes
-# 8. 3-4 kW and 2-3 kW charge bikes are loaded to the truck first( if the requirement not met then low charge bikes uploaded)
-# 9. unloading is done in a similar manner by unloading the high charge ones first 
-# 10. the bike vec has been considered for a time slot after removing the pickups and dropoffs of that particular station 
+
+# 6. 3-4 kW and 2-3 kW charge bikes are loaded to the truck first( if the requirement not met then low charge bikes uploaded)
+# 7. unloading is done in a similar manner by unloading the high charge ones first 
+# 8. the bike vec has been considered for a time slot after removing the pickups and dropoffs of that particular station 
 
 
 ### the truck moves along a fixed path mentioned by the vector(num_b) which is constructed after taking into consideration the distance and time to complete a one way trip
